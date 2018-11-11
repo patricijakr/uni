@@ -1,11 +1,10 @@
-# BASH
+#BASH
 
 From Newbies for Newbies: BASH! Why BASH? https://youtu.be/YHoiQ2b5YzE
 
 From Newbies for Newbies: BASH! Files and Directories https://youtu.be/SC0CQm6gaqc
 
 code:
-
 ~/workspace/ $ # BASH allows you to easily work with different directories and files.
 
 ~/workspace/ $ # Let's create 2 new directories A1 and A2 by using command mkdir
