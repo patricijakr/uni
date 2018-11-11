@@ -8,7 +8,7 @@ Third up are WordPress templates, starting with where to find one as well as tip
 Last but not least tool which is discussed is Joomla - speaker introduces others to Joomla's surface as well as workspace and tells a little more about her experience with it.
 
 # BASH
-BASH! Why BASH? https://youtu.be/YHoiQ2b5YzE
+From Newbies for Newbies: BASH! Why BASH? https://youtu.be/YHoiQ2b5YzE
 
 # VIDEO EDITING ONLINE COURSE
 Link to presentation about ADDIE model: https://prezi.com/view/75SaGVrhO9Oh45VoF7s7/
