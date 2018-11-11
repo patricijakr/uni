@@ -7,6 +7,3 @@ Secondly WIX is discussed, pointing out it's user-friendly surface as well as op
 Third up are WordPress templates, starting with where to find one as well as tips & tricks to which follow when purchasing one by yourself.
 Last but not least tool which is discussed is Joomla - speaker introduces others to Joomla's surface as well as workspace and tells a little more about her experience with it.
 
-# VIDEO EDITING ONLINE COURSE
-Link to presentation about ADDIE model: https://prezi.com/view/75SaGVrhO9Oh45VoF7s7/
-
