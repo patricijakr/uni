@@ -9,6 +9,7 @@ Last but not least tool which is discussed is Joomla - speaker introduces others
 
 # BASH
 From Newbies for Newbies: BASH! Why BASH? https://youtu.be/YHoiQ2b5YzE
+From Newbies for Newbies: BASH! Files and Directories https://youtu.be/SC0CQm6gaqc
 
 # VIDEO EDITING ONLINE COURSE
 Link to presentation about ADDIE model: https://prezi.com/view/75SaGVrhO9Oh45VoF7s7/
