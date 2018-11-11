@@ -13,8 +13,11 @@ From Newbies for Newbies: BASH! Why BASH? https://youtu.be/YHoiQ2b5YzE
 From Newbies for Newbies: BASH! Files and Directories https://youtu.be/SC0CQm6gaqc
 code:
 ~/workspace/ $ # BASH allows you to easily work with different directories and files.
+
 ~/workspace/ $ # Let's create 2 new directories A1 and A2 by using command mkdir
+
 ~/workspace/ $ mkdir A1 A2
+
 ~/workspace/ $ #We can easily navigate between them by using command cd                                                                    
 ~/workspace/ $ cd A1
 ~/workspace/A1/ $ # Now we are in directory A1
