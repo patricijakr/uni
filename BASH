@@ -1,5 +1,20 @@
 From Newbies for Newbies: BASH! Why BASH? https://youtu.be/YHoiQ2b5YzE
 
+code:
+~/workspace/ $ # Why should you choose BASH?
+~/workspace/ $ # Well.. If you are LINUX user, then the answer is quite obvious, isn't it? It's the most convenient for you.
+~/workspace/ $ # But if you don't use LINUX on daily basis, why choose BASH?
+~/workspace/ $ # Let's start on a fun note. Imagine waking up after a long long nap. Your phone is dead. Your computeris playing tricks on you for months and been showing the wrong date. How to know what date is it? OF COURSE BY USING BASH! Just type in command $cal and BASH will show you today's date.
+~/workspace/ $ # Try it, it's fun, isn't it? :)
+~/workspace/ $ # But on a more serious note. BASH helps you to easily create new directories and files as well as manage them in no-time.
+~/workspace/ $ #Let's try it together. Create a new directory by writing a command mkdir
+~/workspace/ $ mkdir NEW
+~/workspace/ $ # Now let's create a new file
+~/workspace/ $ touch FILE1
+~/workspace/ $ # Easy, rightt? :)
+~/workspace/ $ ^Chat's it for today. But for more about directories & files - stay tuned. 
+~/workspace/ $ 
+
 From Newbies for Newbies: BASH! Files and Directories https://youtu.be/SC0CQm6gaqc
 
 code:
