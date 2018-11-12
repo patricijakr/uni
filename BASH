@@ -42,3 +42,41 @@ rm: remove regular empty file ‘B3’? yes
 B1  B2
 ~/workspace/A2/ $ # That's a basic tutorial how to navigate between directories and files. :)
 ~/workspace/A2/ $ 
+
+From Newbies for Newbies: BASH! Editing Options in BASH https://youtu.be/Du4Hy8js74Y
+
+code:
+~/workspace/ $ # Today we're gonna learn basics to editing files in BASH
+~/workspace/ $ # Let's create a new directory and 2 new files
+~/workspace/ $ mkdir TEST
+~/workspace/ $ touch F1 F2
+~/workspace/ $ # To add content to files we use command echo
+~/workspace/ $ echo "test F1 " > F1
+~/workspace/ $ echo " test F2 " > F2
+~/workspace/ $ # to revise information we have in different files, command cat comes in handy
+~/workspace/ $ cat F1 F2
+test F1 
+ test F2 
+~/workspace/ $ # For adding extra line to file, we use echo as well
+~/workspace/ $ echo " extra line " >> F2
+~/workspace/ $ cat F2
+ test F2 
+ extra line 
+~/workspace/ $ # For creating new files and working in them, we can use different editors, one of them being nano.
+~/workspace/ $ # to open nano just type: nano
+~/workspace/ $ nano
+~/workspace/ $ # we just created a new file.
+~/workspace/ $ ls TEST
+~/workspace/ $ #w~e can check the content in file nano                                                                                    
+~/workspace/ $ cat nano
+This is nano. 
+We can type here whatever we want.
+to save file click ctrl+ o
+to exit nano click ctrl + x
+
+~/workspace/ $ # deleting files are easy as well. just use command rm
+~/workspace/ $ rm F1
+rm: remove regular file ‘F1’? yes
+~/workspace/ $ # those are the basics of editing in BASH. :)
+~/workspace/ $ 
+
